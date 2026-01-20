@@ -21,3 +21,28 @@ a:hover{
   background-color: #E6DEFF;
   box-shadow: 0 0 12px rgba(177, 151, 252, 0.35);
 }
+.content {
+    max-width: 800px;
+    margin: 30px auto;
+    background: white;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+.content h1 {
+    color: #333;
+}
+
+.content h2 {
+    color: #555;
+    margin-top: 25px;
+}
+
+.content ul {
+    margin-left: 20px;
+}
+
+.icon-example {
+    font-size: 20px;
+    color: goldenrod;
+}
