@@ -1,0 +1,23 @@
+body{
+  margin: 0;
+}
+header{
+  display: flex;
+  height: 5vh;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #F4F1FF;
+}
+a{
+  color: #B197FC;
+  transition: all 0.2s ease;
+  font-family: 'Poppins', system-ui, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+a:hover{
+  background-color: #E6DEFF;
+  box-shadow: 0 0 12px rgba(177, 151, 252, 0.35);
+}
